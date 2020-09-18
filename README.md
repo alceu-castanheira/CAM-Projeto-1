@@ -1,0 +1,2 @@
+# CAM-Projeto-1
+Projeto 1 da disciplina Cibernética e Aprendizagem de Máquinas, do Programa de Pós-Graduação em Sistemas Mecatrônicos (PPMEC) da Universidade de Brasília. O projeto consiste em executar o notebook proposto por Will Koehrsen, 'Start Here: A Gentle Introduction', voltado para iniciantes em competições de aprendizagem de máquina. O notebook na íntegra, bem como explicações sobre o mesmo, podem ser encontrados em: https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
