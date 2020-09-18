@@ -1,0 +1,8 @@
+File generated using Will Koehrsen's notebook: https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
+
+log_reg_lbfgs_baseline.csv = 0.67714
+log_reg_liblinear_baseline.csv = 0.66786
+random_forest_baseline = 0.67597
+random_forest_baseline_domain = 0.67877
+baseline_lgb = 0.73469
+baseline_lbg_domain = 0.73469
